@@ -1,0 +1,13 @@
+{
+name: Fabian_MCH;
+
+UUID: uuid;
+
+activeauctions: 0;
+
+collectable: 2;
+
+collectworth: 1.000.000;
+
+alltimeauctions: 99;
+}
